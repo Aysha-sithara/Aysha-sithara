@@ -29,9 +29,30 @@ A practical application focused on improving employee experience and workflow ef
 A business-focused project designed to support productivity and efficient task management. It reflects my goal of creating user-friendly tools that are easy to understand and useful in real-world scenarios.
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aysha-sithara&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aysha-sithara&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aysha-sithara&show_icons=true&theme=dark&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Aysha-sithara&theme=dark&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha-sithara&layout=compact&theme=dark&hide_border=true"
+    height="120"
+    alt="Most Used Languages"
+  />
+</p>
+
 
 ## Connect With Me
 - LinkedIn: linkedin.com/in/aysha-sithara-a97033226
