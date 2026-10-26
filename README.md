@@ -18,7 +18,7 @@ I'm a passionate developer who enjoys building clean, useful, and impactful digi
 - Building practical projects
 - Improving backend skills
 
-## Featured Projects
+## Projects
 ### 1. [GPos](https://github.com/ERPGulf/GPos.git)
 A productivity-oriented solution built with an emphasis on usability and fast access to essential functionalities. This project reflects my interest in building simple, effective, and user-centric digital experiences.
 
