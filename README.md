@@ -20,13 +20,13 @@ I'm a passionate developer who enjoys building clean, useful, and impactful digi
 
 ## Featured Projects
 ### 1. [GPos](https://github.com/ERPGulf/GPos.git)
-A practical ERP-focused project designed to improve operational efficiency and streamline day-to-day business workflows. It emphasizes usability, clear data handling, and solutions that support real-world business needs.
+A productivity-oriented solution built with an emphasis on usability and fast access to essential functionalities. This project reflects my interest in building simple, effective, and user-centric digital experiences.
 
 ### 2. [Employee App](https://github.com/ERPGulf/employee_app.git)
-A project aimed at simplifying employee-related operations and improving team productivity. The app focuses on creating a user-friendly experience while managing key workflows in a clean and organized way.
+A practical application focused on improving employee experience and workflow efficiency. It emphasizes streamlined processes, clean design, and meaningful digital solutions for everyday tasks.
 
 ### 3. [Readymix](https://github.com/ERPGulf/readymix.git)
-A productivity-oriented solution built with an emphasis on usability and fast access to essential functionalities. This project reflects my interest in building simple, effective, and user-centric digital experiences.
+A business-focused project designed to support productivity and efficient task management. It reflects my goal of creating user-friendly tools that are easy to understand and useful in real-world scenarios.
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aysha-sithara&show_icons=true&theme=radical)
